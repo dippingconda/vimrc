@@ -1,0 +1,7 @@
+set hlsearch
+hi Search ctermfg=LightMagenta
+
+set nowrapsearch
+set smartcase
+set showmatch
+set shiftwidth=4
